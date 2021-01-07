@@ -22,4 +22,17 @@ we can have a seperate file for the `main__header`
 
 # thats how this works
 
+## if you are using it for production then replace these links
+
+```html
+ <script crossorigin src="https://unpkg.com/react@17/umd/react.development.js"></script>
+ <script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+```
+
+## with these links
+```html
+<script crossorigin src="https://unpkg.com/react@17/umd/react.production.min.js"></script>
+<script crossorigin src="https://unpkg.com/react-dom@17/umd/react-dom.production.min.js"></script>
+```
+
 **_Enjoy!_**

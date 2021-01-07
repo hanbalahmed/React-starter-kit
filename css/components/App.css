@@ -1,1 +1,11 @@
 /* this is the app component */
+/* this is the app component */
+.main__header {
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(7, 16, 32);
+  color: aliceblue;
+}

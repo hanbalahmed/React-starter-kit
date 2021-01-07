@@ -10,9 +10,8 @@ it will look like this
 
 ```js
 return (
-    <div className="main">
     <div className="main__header">
-        <h1>React App</h1>
+      <h1>React App</h1>
     </div>
 );
 

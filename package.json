@@ -1,0 +1,15 @@
+{
+  "name": "html-react",
+  "version": "1.0.0",
+  "description": "But you can have components in your css. Note that there is a folder called `imports`. inside of that folder we have an `imports.css`, that file imports everything of css.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hanbal ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}

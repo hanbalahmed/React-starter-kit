@@ -1,6 +1,7 @@
 # React HTML
 
-#### this boilerplate has some limitations because you can't have components, you have to do everything in 1 file
+#### you can have components like this in the screenshot below
+![image](https://lh3.googleusercontent.com/-3K9Wq4ekjuI/X_f4FB-GxcI/AAAAAAAAATo/6fvouR2SJjUdmQINw6Dm02b-nIIpx-HXgCK8BGAsYHg/s0/2021-01-07.png)
 
 But you can have components in your css. Note that there is a folder called `imports`. inside of that folder we have an `imports.css`, that file imports everything of css.
 

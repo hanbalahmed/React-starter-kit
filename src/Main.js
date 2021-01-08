@@ -1,4 +1,4 @@
-const App = () => {
+const Main = () => {
   return (
     <div className="main">
       <div className="main__header">
@@ -6,13 +6,13 @@ const App = () => {
 
         <br />
 
-        <Main />
+        <App />
       </div>
     </div>
   );
 };
 
-const Main = () => {
+const App = () => {
   return (
     <div>
       <p style={{ fontSize: 17 }}>
@@ -22,4 +22,4 @@ const Main = () => {
   );
 };
 
-ReactDOM.render(<App />, document.getElementById("app"));
+ReactDOM.render(<Main />, document.getElementById("app"));

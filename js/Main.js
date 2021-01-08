@@ -6,10 +6,18 @@ const App = () => {
 
         <br />
 
-        <p style={{ fontSize: 17 }}>
-          Start Editing <code>./js/Main.js</code> to Start
-        </p>
+        <Main />
       </div>
+    </div>
+  );
+};
+
+const Main = () => {
+  return (
+    <div>
+      <p style={{ fontSize: 17 }}>
+        Start Editing <code>./js/Main.js</code> to Start
+      </p>
     </div>
   );
 };
